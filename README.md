@@ -6,7 +6,9 @@ Hello 👋
 
 I'm Jaime, a professional in systems engineering and web application development, specialized in the front-end world but with good experience in the back-end.
 
-My main mission is to translate user-centric designs into stylish, fast websites or applications, adding the logic required to fulfill the functionalities.
+He currently works as Development Leader at Extreme Technologies S.A.
+
+My main mission is to translate user-centric designs into fast websites or applications, adding the logic required to fulfill the functionalities.
 
 Do you want to know more about me? [Look at my portfolio.](https://jaime00.github.io/personalPortfolio/)
 <br>
@@ -15,8 +17,8 @@ Do you want to know more about me? [Look at my portfolio.](https://jaime00.githu
 
 <br>
 
-<a href="https://github.com/jaime00/google-clone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=google-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/jaime00/shortly">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=shortly&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/jaime00/personalPortfolio">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=personalPortfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -42,6 +44,11 @@ Do you want to know more about me? [Look at my portfolio.](https://jaime00.githu
 </a>
 
 <br>
+
+<a href="https://github.com/jaime00/google-clone">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=google-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
