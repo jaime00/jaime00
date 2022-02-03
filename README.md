@@ -1,6 +1,6 @@
 [![GitHub Banner](./assets/GitHubHeader.png)](https://jaime00.github.io/personalPortfolio)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaime-torres-890113118)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaime00)
 
 Hello 👋
 
