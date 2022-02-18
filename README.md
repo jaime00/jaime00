@@ -1,16 +1,14 @@
-[![GitHub Banner](./assets/GitHubHeader.png)](https://jaime00.github.io/personalPortfolio)
+[![GitHub Banner](./assets/GitHubHeader.png)](http://www.jaime00.me)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaime00)
 
 Hello 👋
 
-I'm Jaime, a professional in systems engineering and web application development, specialized in the front-end world but with good experience in the back-end.
+I'm a Systems Engineer, creative developer specializing in Front-End. With more than 2 years of experience adding value to business processes in the commercial and public service sectors.
 
-He currently works as Development Leader at Extreme Technologies S.A.
+Currently working as a Technical Lead at Extreme Technologies, implementing functional, scalable and reusable code solutions throughout my career, aligned with user needs and business goals. In addition to technically coordinating and mentoring a development team in their day-to-day activities, careers and technical growth.
 
-My main mission is to translate user-centric designs into fast websites or applications, adding the logic required to fulfill the functionalities.
-
-Do you want to know more about me? [Look at my portfolio.](https://jaime00.github.io/personalPortfolio/)
+Do you want to know more about me? [Look at my portfolio.](http://www.jaime00.me/)
 <br>
 
 ## 📌 Pinned Repositories
@@ -20,8 +18,8 @@ Do you want to know more about me? [Look at my portfolio.](https://jaime00.githu
 <a href="https://github.com/jaime00/shortly">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=shortly&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/jaime00/personalPortfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=personalPortfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/jaime00/portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime00&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
