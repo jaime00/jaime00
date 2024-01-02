@@ -4,7 +4,7 @@
 
 Hello 👋
 
-I'm a Systems Engineer, creative developer specializing in Front-End. With more than 2 years of experience adding value to business processes in the commercial and public service sectors.
+I'm a Systems Engineer, creative developer specializing in Front-End. With more than 4 years of experience adding value to business processes in the commercial and public service sectors.
 
 Currently working as a Technical Lead at Extreme Technologies, implementing functional, scalable and reusable code solutions throughout my career, aligned with user needs and business goals. In addition to technically coordinating and mentoring a development team in their day-to-day activities, careers and technical growth.
 
