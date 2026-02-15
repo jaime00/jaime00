@@ -1,64 +1,45 @@
-[![GitHub Banner](./assets/GitHubHeader.png)](http://www.jaime00.me)
+[![GitHub Banner](https://github.com/user-attachments/assets/596e23cc-eed0-4119-abc4-d9068cb3ffb5)](https://jaimetorres.netlify.app)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaime00)
+<h1>Hi, I'm Jaime 👋</h1>
 
-Hello 👋
+<p>Systems Engineer & Creative Developer specializing in Front-End. With 4+ years of experience adding value to business processes in commercial and public service sectors.</p>
 
-I'm a Systems Engineer, creative developer specializing in Front-End. With more than 4 years of experience adding value to business processes in the commercial and public service sectors.
+<p>Currently working as a <strong>Frontend Developer at IA Interactive</strong>, where I design and implement functional, scalable, and reusable code solutions utilizing React JS, Next JS, and Microfronts.</p>
 
-Currently working as a Technical Lead at Extreme Technologies, implementing functional, scalable and reusable code solutions throughout my career, aligned with user needs and business goals. In addition to technically coordinating and mentoring a development team in their day-to-day activities, careers and technical growth.
+[<img src="https://img.shields.io/badge/Portfolio-jaimetorresv.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white" />](https://jaimetorres.netlify.app)
+[<img src="https://img.shields.io/badge/LinkedIn-jaimetorresv-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jaimetorresv)
+[<img src="https://img.shields.io/badge/GitHub-jaime00-black?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jaime00)
 
-Do you want to know more about me? [Look at my portfolio.](http://www.jaime00.me/)
-<br>
+---
 
-## &#x1f4c8; GitHub Stats
+## 🛠️ Tech Stack
 
-<br>
+### Frontend
 
-<a href="https://github.com/jaime00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime00&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 
-<a href="https://github.com/jaime00">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jaime00&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Jaime's GitHub Stats" />
-</a>
+### Backend & Databases
 
-<br>
-<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 
-## 💼 Skills
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197) 
+---
 
-<br>
+## 💼 Experience
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)  
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)  
+- **Frontend Developer** @IA Interactive _(Current)_
+- **Frontend Developer** @Linktic
+- **Frontend Developer** @Qrvey
+- **Technical Lead** @Extreme Technologies
+- **Frontend Developer** @Extreme Technologies
 
-<br>
+---
 
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)  
-![](https://img.shields.io/badge/Database-PgSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)  
+## 📫 Connect With Me
 
-<details>
-<summary>More Skills</summary>
-
-##### Others:
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Amazon_S3-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
+Feel free to reach out through my [portfolio](https://jaimetorres.netlify.app/contact) or connect on [LinkedIn](https://linkedin.com/in/jaimetorresv).
