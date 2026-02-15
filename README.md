@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Jaime 👋</h1>
 
-<p>Systems Engineer & Creative Developer specializing in Front-End. With 4+ years of experience adding value to business processes in commercial and public service sectors.</p>
+<p>Systems Engineer & Creative Developer specializing in Front-End. With 6+ years of experience adding value to business processes in commercial and public service sectors.</p>
 
 <p>Currently working as a <strong>Frontend Developer at IA Interactive</strong>, where I design and implement functional, scalable, and reusable code solutions utilizing React JS, Next JS, and Microfronts.</p>
 
