@@ -1,6 +1,6 @@
-[![GitHub Banner](https://github.com/user-attachments/assets/596e23cc-eed0-4119-abc4-d9068cb3ffb5)](https://jaimetorres.netlify.app)
+[![GitHub Banner](./assets/GitHubHeader.png)](https://jaimetorres.netlify.app)
 
-<h1>Hi, I'm Jaime 👋</h1>
+<h1>Hi, I'm Jaime Torres 👋</h1>
 
 <p>Systems Engineer & Creative Developer specializing in Front-End. With 6+ years of experience adding value to business processes in commercial and public service sectors.</p>
 
