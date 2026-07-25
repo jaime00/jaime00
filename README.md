@@ -1,8 +1,8 @@
 <img src="./assets/banner.png" width="100%" alt="banner" />
 
-<h1 align="center">Hi, I'm Jaime 👋</h1>
+<h1 align="">Hi, I'm Jaime 👋</h1>
 
-<p align="center">
+<p align="">
   <b>Frontend Developer</b> from Colombia 🇨🇴 · 6+ years building scalable, high-performance web apps.
 </p>
 
