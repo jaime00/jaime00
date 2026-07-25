@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaime Torres 👋</h1>
+<h1 align="center">Hi, I'm Jaime 👋</h1>
 
 <p align="center">
   <b>Frontend Developer</b> from Colombia 🇨🇴 · 6+ years building scalable, high-performance web apps.
