@@ -34,4 +34,4 @@
 ### 📫 Let's connect
 
 Have a project in mind or want to talk frontend? Reach out through my
-[portfolio](https://jaimetorresv.com/contact) or on [LinkedIn](https://linkedin.com/in/jaimetorresv). Always happy to talk tech! 🤙
+<a href="https://jaimetorresv.com/contact" target="_blank">portfolio</a> or on <a href="https://linkedin.com/in/jaimetorresv" target="_blank">LinkedIn</a>. Always happy to talk tech! 🤙
