@@ -15,6 +15,22 @@
 
 ---
 
+### My favorite projects
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/eazy-git" target="_blank">
+    <img src="https://res.cloudinary.com/personal-jaime00/image/upload/f_auto,q_auto/v1782597712/projects/portfolio/projects/eazy-git/preview-en.png" width="250" height="250" alt="eazy-git" />
+  </a>
+  <a href="https://smooth-components.netlify.app" target="_blank">
+    <img src="https://res.cloudinary.com/personal-jaime00/image/upload/f_auto,q_auto/v1782597819/projects/portfolio/projects/smooth-components/smooth-components.png" width="250" height="250" alt="smooth-components" />
+  </a>
+  <a href="https://jaimetorresv.com/" target="_blank">
+    <img src="./assets/portfolio.jpeg" width="250" height="250" alt="portfolio" />
+  </a>
+</p>
+
+---
+
 ### 📫 Let's connect
 
 Have a project in mind or want to talk frontend? Reach out through my
