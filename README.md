@@ -17,7 +17,7 @@
 
 ### My favorite projects
 
-<p align="center">
+<p align="">
   <a href="https://www.npmjs.com/package/eazy-git" target="_blank">
     <img src="https://res.cloudinary.com/personal-jaime00/image/upload/f_auto,q_auto/v1782597712/projects/portfolio/projects/eazy-git/preview-en.png" width="250" alt="eazy-git" />
   </a>
