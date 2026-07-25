@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" width="100%" alt="banner" />
+
 <h1 align="center">Hi, I'm Jaime 👋</h1>
 
 <p align="center">
