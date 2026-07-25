@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ### My favorite projects
 
 <p align="">
@@ -30,8 +28,6 @@
     <img src="./assets/portfolio.jpeg" width="250" alt="portfolio" />
   </a>
 </p>
-
----
 
 ### 📫 Let's connect
 
