@@ -6,14 +6,7 @@
   <b>Frontend Developer</b> from Colombia 🇨🇴 · 6+ years building scalable, high-performance web apps.
 </p>
 
-<p align="">
-  <a href="https://jaimetorresv.com" target="_blank">
-    <img src="./assets/site.png" width="50" height="50" alt="Open my portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/jaimetorresv" target="_blank">
-    <img src="./assets/linkedin.png" width="50" height="50" alt="Open my LinkedIn" />
-  </a>
-</p>
+<p><a href="https://jaimetorresv.com" target="_blank"><img src="./assets/site.png" width="50" height="50" alt="Open my portfolio" /></a><a href="https://linkedin.com/in/jaimetorresv" target="_blank"><img src="./assets/linkedin.png" width="50" height="50" alt="Open my LinkedIn" /></a></p>
 
 ### My favorite projects
 
