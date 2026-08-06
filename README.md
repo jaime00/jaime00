@@ -15,7 +15,11 @@
     <img src="https://res.cloudinary.com/personal-jaime00/image/upload/f_auto,q_auto/v1782597712/projects/portfolio/projects/eazy-git/preview-en.png" width="250" height="160" alt="eazy-git" />
   </a>
   <a href="https://smooth-components.com" target="_blank">
-    <img src="https://res.cloudinary.com/personal-jaime00/image/upload/v1785295625/projects/smooth-components/landing.png" width="250" height="160" alt="smooth-components" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/personal-jaime00/image/upload/v1785377970/projects/portfolio/projects/smooth-components/smooth-components-landing-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/personal-jaime00/image/upload/v1785378016/projects/portfolio/projects/smooth-components/smooth-components-landing-light.png" />
+      <img src="https://res.cloudinary.com/personal-jaime00/image/upload/v1785378016/projects/portfolio/projects/smooth-components/smooth-components-landing-light.png" width="250" height="160" alt="smooth-components" />
+    </picture>
   </a>
   <a href="https://jaimetorresv.com/" target="_blank">
     <picture>
