@@ -18,7 +18,11 @@
     <img src="https://res.cloudinary.com/personal-jaime00/image/upload/v1785295625/projects/smooth-components/landing.png" width="250" height="160" alt="smooth-components" />
   </a>
   <a href="https://jaimetorresv.com/" target="_blank">
-    <img src="./assets/portfolio.jpeg" width="250" height="160" alt="portfolio" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/personal-jaime00/image/upload/v1786044398/projects/portfolio/home-dark.jpg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/personal-jaime00/image/upload/v1786044325/projects/portfolio/home.jpg" />
+      <img src="https://res.cloudinary.com/personal-jaime00/image/upload/v1786044325/projects/portfolio/home.jpg" width="250" height="160" alt="portfolio" />
+    </picture>
   </a>
 </p>
 
